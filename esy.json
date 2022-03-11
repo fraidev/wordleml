@@ -1,0 +1,10 @@
+{
+    "esy": {
+        "build": "dune build -p wordle"
+    },
+    "dependencies": {
+        "ocaml": "4.12.x",
+        "@opam/dune": "*",
+        "@opam/core": "*"
+    }
+}

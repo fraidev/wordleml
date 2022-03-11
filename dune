@@ -1,0 +1,4 @@
+(executable
+ (name wordle)
+ (public_name wordle.exe)
+ (libraries core))
